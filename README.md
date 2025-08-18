@@ -4,7 +4,7 @@
 もし、あなたがAstarでdApps開発やdAppsの構築になにか貢献したいという気持ちがあるなら、あなたを歓迎いたします。
 気軽にアスターパンクスのdiscordを訪れてみてください。一緒におかしな世の中を変えてくれる仲間を募集しています。
 
- * https://discord.gg/ffzCuU7B
+ * [https://discord.gg/ffzCuU7B](https://discord.gg/5XXUmRn8FM)
 
 ## dApps構築に対する報酬
 
